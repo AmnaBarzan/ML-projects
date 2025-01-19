@@ -25,6 +25,7 @@ Here are some of the projects I’ve worked on:
 | **[Customer Churn Prediction](#)** | Developed an ML model to predict customer churn for a telecom company. | Python, scikit-learn |
 | **[Interactive COVID-19 Dashboard](#)** | Created a real-time data visualization dashboard. | Python, Plotly, Dash |
 | **[Olympics Data Analysis](#)** | Analyzed trends and visualized insights from the modern Olympics dataset. | SQL, PowerBI |
+| **[Airbnb Price Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/airbnb%20price%20prediction.ipynb)** | Developed a regression model to predict Airbnb prices. | Python, scikit-learn, Jupyter Notebook |
 
 ---
 
