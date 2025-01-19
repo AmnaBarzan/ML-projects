@@ -79,7 +79,7 @@ Here are some of the projects I’ve worked on:
 
 ### 🌐 **Connect with Me**
 <p align="left">
-  <a href="https://linkedin.com/in/amnabarzan" target="_blank">
+  <a href="https://www.linkedin.com/in/amna-b-61913817b/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/> 
   </a>
   <a href="https://medium.com/@amnabarzan" target="_blank">
