@@ -16,17 +16,6 @@
 
 ---
 
-### 🚀 **Projects**
-Here are some of the projects I’ve worked on:
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **[AI-Driven Waste Management](#)** | Built a CNN model for waste classification and disaster mitigation. | Python, TensorFlow, OpenCV |
-| **[Customer Churn Prediction](#)** | Developed an ML model to predict customer churn for a telecom company. | Python, scikit-learn |
-| **[Interactive COVID-19 Dashboard](#)** | Created a real-time data visualization dashboard. | Python, Plotly, Dash |
-| **[Olympics Data Analysis](#)** | Analyzed trends and visualized insights from the modern Olympics dataset. | SQL, PowerBI |
-| **[Airbnb Price Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/airbnb%20price%20prediction.ipynb)** | Developed a regression model to predict Airbnb prices. | Python, scikit-learn, Jupyter Notebook |
-
 # Machine Learning Projects Repository
 
 Welcome to my Machine Learning Projects repository! Here, you will find various machine learning projects showcasing different techniques, algorithms, and insights into solving real-world problems.
@@ -172,32 +161,6 @@ Welcome to my Machine Learning Projects repository! Here, you will find various 
 ### 12. **Fraud Detection**  
    - **Description**: Detecting fraudulent activities using machine learning algorithms.
    - **File**: [fraud.nb.html](https://github.com/AmnaBarzan/ML-projects/blob/master/fraud.nb.html)
-
----
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AmnaBarzan/ML-projects.git
-   ```
-2. Navigate to the desired project folder and open the respective file.
-3. Install necessary dependencies (listed in each project's file).
-4. Run the project in your preferred IDE or Jupyter Notebook.
-
----
-
-## Contributions
-Feel free to fork the repository and submit pull requests for any improvements or additions. Let's collaborate and grow together!
-
----
-
-## Author
-Developed with ❤️ by [Amna Barzan](https://github.com/AmnaBarzan)
-
----
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/AmnaBarzan/ML-projects/blob/master/LICENSE) file for details.
 
 ---
 
