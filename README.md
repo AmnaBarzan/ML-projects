@@ -89,3 +89,92 @@ Here are some of the projects I’ve worked on:
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
+
+
+# Machine Learning Projects Repository
+
+Welcome to my Machine Learning Projects repository! Here, you will find various machine learning projects showcasing different techniques, algorithms, and insights into solving real-world problems.
+
+---
+
+## Project List
+
+### 1. **Airbnb Price Prediction**  
+   - **Description**: Predicting the price of Airbnb listings based on multiple features using regression techniques.
+   - **File**: [airbnb_price_prediction.ipynb](https://github.com/AmnaBarzan/ML-projects/blob/master/airbnb%20price%20prediction.ipynb)
+
+### 2. **Association Rule Mining**  
+   - **Description**: Extracting meaningful associations from a dataset using association rule mining techniques.
+   - **File**: [Association_Rule_Minning.R](https://github.com/AmnaBarzan/ML-projects/blob/master/Association%20Rule%20Minning.R)
+
+### 3. **Basketball Player Clustering**  
+   - **Description**: Clustering basketball players based on performance metrics using unsupervised learning.
+   - **File**: [Clustering_basketball_player.ipynb](https://github.com/AmnaBarzan/ML-projects/blob/master/Clustering_basketball_player.ipynb)
+
+### 4. **Disease Prediction Using Machine Learning**  
+   - **Description**: Building a classification model to predict diseases based on patient data.
+   - **File**: [Disease_Prediction_Using_Machine_Learning.ipynb](https://github.com/AmnaBarzan/ML-projects/blob/master/Disease_Prediction_Using_Machine_Learning.ipynb)
+
+### 5. **NBA Stats Visualization**  
+   - **Description**: Analyzing and visualizing NBA player statistics using HTML and Python.
+   - **File**: [NBA_6_52.nb.html](https://github.com/AmnaBarzan/ML-projects/blob/master/NBA_6_52.nb.html)
+
+### 6. **Teenage Market Segmentation**  
+   - **Description**: Segmenting teenage demographics for targeted marketing strategies.
+   - **File**: [Teenage-market-segmentation.html](https://github.com/AmnaBarzan/ML-projects/blob/master/Teenage-market-segmentation.html)
+
+### 7. **Customer Churn Prediction**  
+   - **Description**: Using machine learning techniques to predict customer churn.
+   - **File**: [WEEK_05_Customer_Churn_Prediction.ipynb](https://github.com/AmnaBarzan/ML-projects/blob/master/WEEK_05_Customer_Churn_Prediction.ipynb)
+
+### 8. **Waste Classification CNN**  
+   - **Description**: Implementing a Convolutional Neural Network (CNN) to classify waste for recycling.
+   - **File**: [Waste_CNN.ipynb](https://github.com/AmnaBarzan/ML-projects/blob/master/Waste_CNN.ipynb)
+
+### 9. **NBA Stats Web Scraping**  
+   - **Description**: Scraping NBA player statistics for exploratory analysis.
+   - **File**: [Web_Scraping_NBA_Stats(2019_23).ipynb](https://github.com/AmnaBarzan/ML-projects/blob/master/Web_Scraping_NBA_Stats(2019_23).ipynb)
+
+### 10. **Car Price Prediction**  
+   - **Description**: Predicting car prices using regression models.
+   - **File**: [car_price_prediction.ipynb](https://github.com/AmnaBarzan/ML-projects/blob/master/car_price_prediction.ipynb)
+
+### 11. **Diabetes Prediction**  
+   - **Description**: Predicting the likelihood of diabetes using machine learning classification techniques.
+   - **File**: [diabetes.html](https://github.com/AmnaBarzan/ML-projects/blob/master/diabetes.html)
+
+### 12. **Fraud Detection**  
+   - **Description**: Detecting fraudulent activities using machine learning algorithms.
+   - **File**: [fraud.nb.html](https://github.com/AmnaBarzan/ML-projects/blob/master/fraud.nb.html)
+
+---
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AmnaBarzan/ML-projects.git
+   ```
+2. Navigate to the desired project folder and open the respective file.
+3. Install necessary dependencies (listed in each project's file).
+4. Run the project in your preferred IDE or Jupyter Notebook.
+
+---
+
+## Contributions
+Feel free to fork the repository and submit pull requests for any improvements or additions. Let's collaborate and grow together!
+
+---
+
+## Author
+Developed with ❤️ by [Amna Barzan](https://github.com/AmnaBarzan)
+
+---
+
+## License
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/AmnaBarzan/ML-projects/blob/master/LICENSE) file for details.
+
+---
+
+Enjoy exploring the projects! 🚀
+
