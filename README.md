@@ -27,6 +27,31 @@ Here are some of the projects I’ve worked on:
 | **[Olympics Data Analysis](#)** | Analyzed trends and visualized insights from the modern Olympics dataset. | SQL, PowerBI |
 | **[Airbnb Price Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/airbnb%20price%20prediction.ipynb)** | Developed a regression model to predict Airbnb prices. | Python, scikit-learn, Jupyter Notebook |
 
+# Machine Learning Projects Repository
+
+Welcome to my Machine Learning Projects repository! Here, you will find various machine learning projects showcasing different techniques, algorithms, and insights into solving real-world problems.
+
+---
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **[AI-Driven Waste Management](https://github.com/AmnaBarzan/ML-projects/blob/master/Waste_CNN.ipynb)** | Built a CNN model for waste classification and disaster mitigation. | Python, TensorFlow, OpenCV |
+| **[Customer Churn Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/WEEK_05_Customer_Churn_Prediction.ipynb)** | Developed an ML model to predict customer churn for a telecom company. | Python, scikit-learn |
+| **[Olympics Data Analysis](https://github.com/AmnaBarzan/ML-projects/blob/master/Web_Scraping_NBA_Stats(2019_23).ipynb)** | Analyzed trends and visualized insights from the Olympics dataset. | SQL, PowerBI |
+| **[Airbnb Price Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/airbnb%20price%20prediction.ipynb)** | Developed a regression model to predict Airbnb prices. | Python, scikit-learn, Jupyter Notebook |
+| **[Clustering Basketball Players](https://github.com/AmnaBarzan/ML-projects/blob/master/Clustering_basketball_player.ipynb)** | Used clustering to analyze and group basketball players based on performance. | Python, scikit-learn |
+| **[Disease Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/Disease_Prediction_Using_Machine_Learning.ipynb)** | Created a model to predict diseases based on symptoms. | Python, scikit-learn |
+| **[Car Price Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/car_price_prediction.ipynb)** | Predicted car prices using a regression model. | Python, scikit-learn |
+| **[Market Segmentation](https://github.com/AmnaBarzan/ML-projects/blob/master/Teenage-market-segmentation.html)** | Segmented the market to understand teenage customer behavior. | Python, HTML |
+| **[Fraud Detection](https://github.com/AmnaBarzan/ML-projects/blob/master/fraud.nb.html)** | Built a model to detect fraudulent activities in datasets. | Python, scikit-learn |
+| **[Diabetes Prediction](https://github.com/AmnaBarzan/ML-projects/blob/master/diabetes.html)** | Developed a model to predict diabetes risk using patient data. | Python, scikit-learn |
+| **[NBA Stats Analysis](https://github.com/AmnaBarzan/ML-projects/blob/master/NBA_6_52.nb.html)** | Analyzed NBA player stats and performance trends. | Python, Pandas, Matplotlib |
+| **[Association Rule Mining](https://github.com/AmnaBarzan/ML-projects/blob/master/Association%20Rule%20Minning.R)** | Extracted patterns and insights using association rule mining. | R |
+
+---
+
+Feel free to explore the projects and reach out if you have any questions!
+
 ---
 
 ### 💻 **Skills**
